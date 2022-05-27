@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\WINNEMAN\P.O.O\excepciones-cSharp_Martinez Blanca 21211990\bin\Debug\excepciones-cSharp_Martinez Blanca 21211990.exe.config
+C:\Users\admin\Desktop\WINNEMAN\P.O.O\excepciones-cSharp_Martinez Blanca 21211990\bin\Debug\excepciones-cSharp_Martinez Blanca 21211990.exe
+C:\Users\admin\Desktop\WINNEMAN\P.O.O\excepciones-cSharp_Martinez Blanca 21211990\bin\Debug\excepciones-cSharp_Martinez Blanca 21211990.pdb
+C:\Users\admin\Desktop\WINNEMAN\P.O.O\excepciones-cSharp_Martinez Blanca 21211990\obj\Debug\excepciones-cSharp_Martinez Blanca 21211990.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WINNEMAN\P.O.O\excepciones-cSharp_Martinez Blanca 21211990\obj\Debug\excepciones-cSharp_Martinez Blanca 21211990.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WINNEMAN\P.O.O\excepciones-cSharp_Martinez Blanca 21211990\obj\Debug\excepciones-cSharp_Martinez Blanca 21211990.exe
+C:\Users\admin\Desktop\WINNEMAN\P.O.O\excepciones-cSharp_Martinez Blanca 21211990\obj\Debug\excepciones-cSharp_Martinez Blanca 21211990.pdb
